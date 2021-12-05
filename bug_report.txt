@@ -1,0 +1,7 @@
+Summary            Registration: Poor tooltip for "Date of birth field" in the registration form
+Environment        All browsers/devices
+Severity           Minor
+Steps to reproduce 1)Open front end http://www.gotofly.be:8545/ 2)Follow "account aanmaken" link 3)Pay attention to tooltip for "Date of birth" input
+Actual result      Poor tooltip for "Date of birth field" in the registration form
+Expected result    Tooltip for "Date of birth field" in the registration form is helpful, and also in correct language
+Attachment         http://prntscr.com/k90hge
